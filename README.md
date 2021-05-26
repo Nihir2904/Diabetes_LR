@@ -1,2 +1,2 @@
 # scikit-tut
-a basic programme to learn and undrstand scikit learn 
+a basic programme to learn and understand scikit learn 
